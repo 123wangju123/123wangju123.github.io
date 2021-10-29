@@ -1,25 +1,25 @@
 ---
-layout: default
-description: "你来到了没有知识的荒原 🙊"
-header-img: "img/404-bg.jpg"
+# The 404 page
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT License
+layout: page
+title: "404: Page not found"
 permalink: /404.html
+
+redirect_from:  # part of site.sitemap_exclude
+  - /norobots/
+  - /assets/
+  - /tabs/
+  - /categories/
+  - /tags/
+  - /posts/
+
+dynamic_title: true
 ---
 
-
-<!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				<div class="site-heading" id="tag-heading">
-					<h1>404</h1>
-					<span class="subheading">{{ page.description }}</span>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
-
-<script>
-	document.body.classList.add('page-fullscreen');
-</script>
+<div class="lead">
+  <p>大事不妙, 我们无法链接到该网页 :( </p>
+  <p>您可以点击<a href="{{ site.baseurl }}/">返回首页</a> 来更新站点, 或者在<a href="{{ site.baseurl }}/tabs/archives">时间动态</a>中搜索该页面</p>
+</div>
