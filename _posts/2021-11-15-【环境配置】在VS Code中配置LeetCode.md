@@ -13,14 +13,14 @@ tags: [环境配置, 算法刷题]
 
 # 一、配置环境
 
-### 1. 安装[VSCode](https://so.csdn.net/so/search?from=pc_blog_highlight&q=VSCode)并配置环境
+## 1、安装[VSCode](https://so.csdn.net/so/search?from=pc_blog_highlight&q=VSCode)并配置环境
 
 Leetcode插件本身是不需要配置编程语言环境的，因为它使用的是LeetCode官方编译器进行调试。
 
 
 所以正常只需要安装VSCode即可，这一步比较简单。
 
-### 2. 安装LeetCode插件
+## 2、 安装LeetCode插件
 
 在插件扩展中搜索LeetCode插件，安装热度最高的那个即可。
 
@@ -30,13 +30,13 @@ Leetcode插件本身是不需要配置编程语言环境的，因为它使用的
 
 
 
-### 3. 安装Node.js
+## 3、 安装Node.js
 
 在安装完LeetCode插件之后，点击LeetCode插件的Tab页，会提示你安装Node.js，按照安装程序的提示安装即可。
 
 Node.js在安装完成之后会自动配置环境变量，但需要记住安装位置，后边配置LeetCode会使用到。
 
-### 4. 登录LeetCode账户
+## 4、登录LeetCode账户
 
 完成上述操作后，建议重启一次VS Code。
 
@@ -56,7 +56,7 @@ Node.js在安装完成之后会自动配置环境变量，但需要记住安装�
 
 ![](..//img-post/环境配置/2021-11-15-在VS Code中配置LeetCode/登录LeetCode.png)
 
-### 5. 配置Node.js路径
+## 5、 配置Node.js路径
 
 点击扩展按钮，选中LeetCode插件，鼠标右键选择扩展设置
 找到Node Path，选择相应路径。
@@ -65,7 +65,7 @@ Node.js在安装完成之后会自动配置环境变量，但需要记住安装�
 
 ![](..//img-post/环境配置/2021-11-15-在VS Code中配置LeetCode/配置nodejs路径.png)
 
-### 6. 配置文件路径
+## 6、 配置文件路径
 
 编程的代码文件都会保存到本地，默认路径为“$HOME.leetcode"。
 
