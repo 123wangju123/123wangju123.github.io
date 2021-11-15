@@ -9,7 +9,7 @@ lang: zh-CN # 网站语言:en,zh-CN
 title: JuWang  # 网站名称
 tagline: 北洋园塘主  # 网站名称下的描述
 description: 一个有趣的程序媛 # 被搜索引擎搜索时的描述信息
-theme_mode: dark  # 网站皮肤：light|dark|dual
+theme_mode: light  # 网站皮肤：light|dark|dual
 baseurl: '' # 基础URL
 url: 'https://magicdeveloperdrl.github.io' # 网站URL
 
