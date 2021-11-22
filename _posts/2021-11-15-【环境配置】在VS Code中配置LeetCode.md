@@ -32,7 +32,7 @@ Leetcode插件本身是不需要配置编程语言环境的，因为它使用的
 
 ## 3、 安装Node.js
 
-在安装完LeetCode插件之后，点击LeetCode插件的Tab页，会提示你安装Node.js，按照安装程序的提示安装即可。
+在安装完LeetCode插件之后，点击LeetCode插件的选项页，会提示你安装Node.js，按照安装程序的提示安装即可。
 
 Node.js在安装完成之后会自动配置环境变量，但需要记住安装位置，后边配置LeetCode会使用到。
 
