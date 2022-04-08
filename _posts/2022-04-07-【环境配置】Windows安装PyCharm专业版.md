@@ -11,9 +11,7 @@ tags: [环境配置]
    
 ---
 
-[TOC]
-
-​         本文讲解在Windows系统上安装和破解PyCharm专业版。该文参考自博客[pycharm破解(2021年亲测)完美版(永久有效)](https://www.bilibili.com/read/cv10386031/) 。
+​		本文讲解在Windows系统上安装和破解PyCharm专业版。该文参考自博客[pycharm破解(2021年亲测)完美版(永久有效)](https://www.bilibili.com/read/cv10386031/) 。
 
 ​		PyCharm是一种功能强大的Python IDE，但是官方提供的免费版本只有PyCharm社区版，PyCharm专业版是需要付费的，只有PyCharm专业版才能使用SSH远程连接功能。
 

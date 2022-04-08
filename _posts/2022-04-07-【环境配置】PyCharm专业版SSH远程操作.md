@@ -11,9 +11,7 @@ tags: [环境配置]
    
 ---
 
-[TOC]
-
-​         本文讲解在Windows系统上使用**PyCharm专业版**进行SSH远程连接操作。该文参考自博客[Ubuntu安装MySQL_wavehaha的博客-CSDN博客_ubuntu下载mysql](https://blog.csdn.net/sdkjkfk/article/details/108202094)
+​		本文讲解在Windows系统上使用**PyCharm专业版**进行SSH远程连接操作。该文参考自博客[Ubuntu安装MySQL_wavehaha的博客-CSDN博客_ubuntu下载mysql](https://blog.csdn.net/sdkjkfk/article/details/108202094)
 
 ## 一、SSH远程连接
 
