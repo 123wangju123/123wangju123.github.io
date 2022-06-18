@@ -7,11 +7,11 @@
 #-------------------网站基本设置----------------------------------
 lang: zh-CN # 网站语言:en,zh-CN
 title: JuWang  # 网站名称
-tagline: 北洋园塘主  # 网站名称下的描述
-description: 一个有趣的程序媛 # 被搜索引擎搜索时的描述信息
-theme_mode: light  # 网站皮肤：light|dark|dual
+tagline: 北洋园塘主,一个努力中的程序媛# 网站名称下的描述
+description: 一个努力中的程序媛 # 被搜索引擎搜索时的描述信息
+theme_mode: dual  # 网站皮肤：light|dark|dual
 baseurl: '' # 基础URL
-url: 'https://magicdeveloperdrl.github.io' # 网站URL
+url: 'https://123wangju123.github.io' # 网站URL
 
 
 #-------------------个人信息设置----------------------------------
@@ -22,13 +22,13 @@ timezone: Asia/Shanghai # 地址信息
 
 
 csdn:
-  username: magicdeveloperdrl         # change to your twitter username
+  username: 123wangju123         # change to your twitter username
 
 researchgate:
-  username: magicdeveloperdrl # Change to your researchgate username
+  username: 123wangju123 # Change to your researchgate username
 
 github:
-  username: magicdeveloperdrl  # change to your github username
+  username: 123wangju123  # change to your github username
 
 
 social:

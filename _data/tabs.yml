@@ -5,13 +5,13 @@
 #  MIT Licensed
 
 -
-  name: 首页简介
+  name: 近期文章
   icon: "fas fa-home"
--
-  name: "关于作者"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
+#-
+#  name: "关于作者"
+#  icon: "fas fa-info"
+#  path: tabs
+#  url: about
 -
   name: "时间动态"
   path: tabs
