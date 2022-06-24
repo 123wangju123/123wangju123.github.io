@@ -7,7 +7,7 @@
 #-------------------网站基本设置----------------------------------
 lang: zh-CN # 网站语言:en,zh-CN
 title: JuWang  # 网站名称
-tagline: 北洋园塘主,努力中的程序媛 # 网站名称下的描述
+tagline: 北洋园的程序媛 # 网站名称下的描述
 description: 一个努力中的程序媛 # 被搜索引擎搜索时的描述信息
 theme_mode: light  # 网站皮肤：light|dark|dual
 baseurl: '' # 基础URL
